@@ -33,7 +33,7 @@
     {
       "_id": 6,
       "category": "Hushåls",
-      "icon": "scale-outline",
+      "icon": "home-outline",
       "imageURL": "https://images.pexels.com/photos/221027/pexels-photo-221027.jpeg?cs=srgb&dl=arbete-bla-borsta-borste-221027.jpg&fm=jpg"
     },
     {
@@ -87,7 +87,7 @@
     {
       "_id": 15,
       "category": "Övrigt",
-      "icon": "extension-puzzle-outline",
+      "icon": "bonfire-outline",
       "imageURL": "https://images.pexels.com/photos/944740/pexels-photo-944740.jpeg?cs=srgb&dl=alfabet-alfapet-bokstaver-brev-944740.jpg&fm=jpg"
     }
   ]
